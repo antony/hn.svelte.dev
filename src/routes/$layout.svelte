@@ -1,5 +1,5 @@
 <script>
-	import { stores } from '@sapper/app';
+	import { stores } from '/_app/main/client';
 	import Nav from '../components/Nav.svelte';
 	import PreloadingIndicator from '../components/PreloadingIndicator.svelte';
 	import ThemeToggler from '../components/ThemeToggler.svelte';
